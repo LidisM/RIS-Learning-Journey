@@ -4,7 +4,7 @@ Este repositorio documenta mi aprendizaje paso a paso en **C# y .NET 9**, como p
 
 ##  Estructura del repositorio
 ## Estructura del repositorio
-### 🔗 Navegación por carpetas
+###  Navegación por carpetas
 
 - [`/RIS.Learning`](./RIS.Learning)
   - [`/Ejercicios`](./RIS.Learning/Ejercicios)
