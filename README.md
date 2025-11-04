@@ -1,8 +1,7 @@
 # RIS Learning Journey 
 
 Este repositorio documenta mi aprendizaje paso a paso en **C# y .NET 9**, como parte de mi formación para desarrollar el backend del sistema **RIS (Radiology Information System)**.
-
-##  Estructura del repositorio
+Estructura del repositorio
 ## Estructura del repositorio
 ###  Navegación por carpetas
 
@@ -12,10 +11,6 @@ Este repositorio documenta mi aprendizaje paso a paso en **C# y .NET 9**, como p
       - [`/Dia1`](./RIS.Learning/Ejercicios/Semana1/Dia1)
         - [`Ejercicio1_HolaMundo.cs`](./RIS.Learning/Ejercicios/Semana1/Dia1/Ejercicio1_HolaMundo.cs)
         - [`Ejercicio2_Variables.cs`](./RIS.Learning/Ejercicios/Semana1/Dia1/Ejercicio2_Variables.cs)
-
-##  Semana 1 — Fundamentos
-- **Bloque 1:** Programa “Hola Mundo”  
-- **Bloque 2:** Variables y Tipos de Datos  
 
 ## Stack Tecnológico
 - C# / .NET 9
