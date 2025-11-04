@@ -3,26 +3,15 @@
 Este repositorio documenta mi aprendizaje paso a paso en **C# y .NET 9**, como parte de mi formación para desarrollar el backend del sistema **RIS (Radiology Information System)**.
 
 ##  Estructura del repositorio
-## 🧭 Estructura del repositorio
-```text
-RIS_Learning_Journey/
-│
-├─ RIS.Learning/                  # Proyecto principal (Rider)
-│  │
-│  ├─ Ejercicios/                 # Carpeta con los ejercicios semanales
-│  │  │
-│  │  └─ Semana1/                 # Semana 1 — Fundamentos
-│  │     │
-│  │     └─ Dia1/                 # Bloques 1 y 2 (Hola Mundo, Variables)
-│  │        ├─ Ejercicio1_HolaMundo.cs
-│  │        └─ Ejercicio2_Variables.cs
-│  │
-│  └─ RIS.Learning.csproj
-│
-├─ .gitignore
-├─ RIS_Learning_Journey.sln
-└─ README.md
+## Estructura del repositorio
+### 🔗 Navegación por carpetas
 
+- [`/RIS.Learning`](./RIS.Learning)
+  - [`/Ejercicios`](./RIS.Learning/Ejercicios)
+    - [`/Semana1`](./RIS.Learning/Ejercicios/Semana1)
+      - [`/Dia1`](./RIS.Learning/Ejercicios/Semana1/Dia1)
+        - [`Ejercicio1_HolaMundo.cs`](./RIS.Learning/Ejercicios/Semana1/Dia1/Ejercicio1_HolaMundo.cs)
+        - [`Ejercicio2_Variables.cs`](./RIS.Learning/Ejercicios/Semana1/Dia1/Ejercicio2_Variables.cs)
 
 ##  Semana 1 — Fundamentos
 - **Bloque 1:** Programa “Hola Mundo”  
